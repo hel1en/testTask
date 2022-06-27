@@ -1,0 +1,6 @@
+pg:
+  host:     db
+  port:     5432
+  password: mysecretpassword
+  user:     postgres
+  database: postgres
